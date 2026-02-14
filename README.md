@@ -18,3 +18,5 @@ A Python program that helps users manage a packing list. Users can add and remov
 Python
 View Code:
 (https://github.com/FA25-CS11-DamiObakoya/CS111-ProgrammingAssignment6-DO)
+
+This project helped me understand real-world problem solving, managing data, and writing clean, functional code.
